@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/wickra-lib/wickra-impact/actions/workflows/ci.yml/badge.svg)](https://github.com/wickra-lib/wickra-impact/actions/workflows/ci.yml)
 [![codecov](https://codecov.io/gh/wickra-lib/wickra-impact/branch/main/graph/badge.svg)](https://codecov.io/gh/wickra-lib/wickra-impact)
-[![Go module](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/go.svg)](https://pkg.go.dev/github.com/wickra-lib/wickra-impact-go)
+[![Go module](https://raw.githubusercontent.com/wickra-lib/.github/main/profile/badges/wickra-impact/go.svg)](https://pkg.go.dev/github.com/wickra-lib/wickra-impact-go)
 [![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT_OR_Apache--2.0-blue)](https://github.com/wickra-lib/wickra-impact#license)
 
 **Deterministic market-impact backtesting for Go, over the Wickra C ABI hub via cgo.**
